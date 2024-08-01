@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Ersti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\views\\home\\helperdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\views\\home\\helperdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\ersticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\ersticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\models\\personen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\models\\personen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|c:\\users\\admin\\source\\repos\\ersti\\ersti\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0ADC1DD-D9BB-4EA4-AAE3-93E4A2CBBA29}|Ersti\\Ersti.csproj|solutionrelative:ersti\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelperDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Views\\Home\\HelperDetails.cshtml",
+              "RelativeDocumentMoniker": "Ersti\\Views\\Home\\HelperDetails.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Views\\Home\\HelperDetails.cshtml",
+              "RelativeToolTip": "Ersti\\Views\\Home\\HelperDetails.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T12:04:12.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Program.cs",
+              "RelativeDocumentMoniker": "Ersti\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Program.cs",
+              "RelativeToolTip": "Ersti\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:36:58.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\appsettings.json",
+              "RelativeDocumentMoniker": "Ersti\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\appsettings.json",
+              "RelativeToolTip": "Ersti\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T10:28:56.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ersti\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ersti\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T09:20:04.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ersti\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ersti\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAApwC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:19:28.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Ersti\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Ersti\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-03T11:55:02.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErstiContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\ErstiContext.cs",
+              "RelativeDocumentMoniker": "Ersti\\ErstiContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\ErstiContext.cs",
+              "RelativeToolTip": "Ersti\\ErstiContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wCEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:45:12.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ersti\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ersti\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T11:28:16.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personen.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Models\\Personen.cs",
+              "RelativeDocumentMoniker": "Ersti\\Models\\Personen.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Models\\Personen.cs",
+              "RelativeToolTip": "Ersti\\Models\\Personen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:47:40.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Ersti\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ersti\\Ersti\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Ersti\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T11:56:49.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

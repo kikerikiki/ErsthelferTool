@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "QR Code Generator";
+}
+<img src="/img/stadtwien_logo.png" alt="Logo" id="topRightLogo">
+<div class="container">
+    <h1 id="screenTitle">QR Code generieren</h1>
+    <img src="/img/ersthelfer.png" alt="Großes Bild" id="largeImage">
+    <h1 id="printTitle"><strong>Nächste/r Ersthelfer/in</strong></h1>
+    <label for="building">Gebäude wählen:</label>
+    <select id="building">
+        <option value="A">Gebäude A</option>
+        <option value="B">Gebäude B</option>
+    </select>
+
+    <label for="floor">Stockwerk wählen:</label>
+    <select id="floor">
+        @for (int i = 0; i <= 8; i++)
+        {
+            <option value="@i">@i</option>
+        }
+    </select>
+
+    <button onclick="generateQRCode()">QR Code generieren</button>
+    <div id="qrcode"></div>
+    <button onclick="window.print()" id="printButton" disabled>Drucken</button>
+</div>
+<img src="/img/stadtwien_logo.png" alt="Logo" id="bottomRightLogo">
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script>
+        function generateQRCode() {
+            var building = document.getElementById('building').value;
+            var floor = document.getElementById('floor').value;
+            var qrText = `http://localhost:5023/FindHelper?building=${building}&floor=${floor}`;
+            var qrcodeContainer = document.getElementById("qrcode");
+            qrcodeContainer.innerHTML = '';
+            new QRCode(qrcodeContainer, {
+                text: qrText,
+                width: 256,
+                height: 256,
+                colorDark: "#000000",
+                colorLight: "#ffffff",
+                correctLevel: QRCode.CorrectLevel.H
+            });
+            document.getElementById('printButton').disabled = false;
+        }
+    </script>
+}

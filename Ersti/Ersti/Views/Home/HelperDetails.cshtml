@@ -1,0 +1,38 @@
+﻿@model List<Ersti.Models.Personen>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<img src="/img/stadtwien_logo.png" alt="Logo" id="topRightLogo">
+<div class="helper-details">
+    <h2 class="text-center mb-4">Nächste/r Ersthelfer/in</h2>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="list-group">
+            @foreach (var person in Model)
+            {
+                <div class="list-group-item">
+                    <div class="info-block">
+                        <strong>Name:</strong> @person.Name
+                    </div>
+                    <div class="info-block">
+                        <strong>Stockwerk:</strong> @person.Stock
+                    </div>
+                    <div class="info-block">
+                        <strong>Raum:</strong> @person.Raum
+                    </div>
+                    <div class="info-block">
+                        <strong>Klappe:</strong> <a href="tel: +4314000 @person.Klappe">@person.Klappe</a>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning" role="alert">
+            <p>@ViewData["Message"]</p>
+        </div>
+    }
+</div>
